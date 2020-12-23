@@ -25,4 +25,4 @@ seguinte comando: ```expo build:android -t apk```.
 
 Ao final, se tudo ocorrer bem, será retornado a URL para baixar o SDK.
 
-> OBS: O antivírus deve está desativado durante esse processo para evitar erros!
+> OBS: O antivírus deve está desativado durante esse processo para evitar erros! E se você já rodou esses comandos anteriormente exclua a pasta .expo caso for gerar o SDK novamente!
