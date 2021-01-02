@@ -21,7 +21,7 @@
     },
     "android": {
       "package": "com.codersolution.abrirwhatsapp",
-      "versionCode": 2,
+      "versionCode": 3,
       "permissions": []
     }
   }
