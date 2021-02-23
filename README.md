@@ -8,6 +8,8 @@
 
 O Abrir WhatsApp é um projeto que tem como intuito permitir abrir uma conversa com um número desconhecido sem a necessidade de salvá-lo nos contatos.
 
+Baixe o aplicativo [aqui](https://play.google.com/store/apps/details?id=com.patrickmota.zapzap).
+
 <h2> Mobile</h2>
 <h3> Tecnologias</h3>
 
